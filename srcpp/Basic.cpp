@@ -16,3 +16,5 @@ void BasicBoy::Basic() {
   std::cin.clear();
   std::cin.ignore(100, '\n');
  }
+
+//Enter the numbers and good
